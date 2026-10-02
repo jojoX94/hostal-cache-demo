@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[5820,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-4ee012a00028bd35.js","235","static/chunks/app/gallery/page-adff90950fff34a7.js"],"GalleryPageClient"]
+3:I[3946,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"sources":["/images/gallery/01-fachada.jpg","/images/gallery/02-entrada.jpg","/images/gallery/03-habitacion-twin.jpg","/images/gallery/04-desayuno-churros.jpg","/images/gallery/05-habitacion-twin-2.jpg","/images/gallery/06-toallas-bienvenida.jpg"]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fMrUzJTyjnl2f_1_etFwf"}
+5:null
