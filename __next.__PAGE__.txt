@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[6722,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"Hero"]
+3:I[5203,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"Features"]
+4:I[5356,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"Gallery"]
+5:I[8121,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"Facilities"]
+6:I[3110,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"Rooms"]
+7:I[9677,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"Contact"]
+8:I[5910,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"Testimonials"]
+9:I[6533,["232","static/chunks/232-28a39d16d989a3a1.js","742","static/chunks/742-df72655f12295f92.js","974","static/chunks/app/page-e8f80392b483a3f7.js"],"SiteFooter"]
+a:I[3946,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]],null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FIMwsfqpck6rZAp-o4wCO"}
+c:null
